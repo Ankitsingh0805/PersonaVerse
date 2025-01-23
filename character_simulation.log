@@ -1,0 +1,951 @@
+2025-01-18 10:16:19,955 - INFO - Configuration loaded from config/config.yaml
+2025-01-18 10:16:19,955 - INFO - Initializing text generation model...
+2025-01-18 10:16:26,077 - ERROR - Error initializing text generator: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install accelerate`
+2025-01-18 10:16:26,077 - ERROR - Simulation failed: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install accelerate`
+2025-01-18 10:17:17,578 - INFO - Configuration loaded from config/config.yaml
+2025-01-18 10:17:17,579 - INFO - Initializing text generation model...
+2025-01-18 10:18:28,569 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-18 10:18:34,437 - INFO - AI Character Simulation initialized successfully
+2025-01-18 10:18:34,469 - INFO - Created Indian character: Zara Menon
+2025-01-18 10:18:34,469 - INFO - Created Korean character: Hae-won Jung
+2025-01-18 10:18:34,469 - INFO - Starting simulation for character: indian
+2025-01-18 10:18:34,470 - INFO - Starting simulation for Zara Menon for 24.0 hours
+2025-01-18 10:19:56,950 - INFO - Simulation interrupted by user
+2025-01-18 10:19:56,950 - INFO - Simulation ended for Zara Menon
+2025-01-18 10:19:56,950 - INFO - Starting simulation for character: korean
+2025-01-18 10:19:56,951 - INFO - Starting simulation for Hae-won Jung for 24.0 hours
+2025-01-18 10:20:58,935 - INFO - Simulation interrupted by user
+2025-01-18 10:20:58,936 - INFO - Simulation ended for Hae-won Jung
+2025-01-18 11:47:27,612 - INFO - Configuration loaded from config/config.yaml
+2025-01-18 11:47:27,612 - INFO - Initializing text generation model...
+2025-01-18 11:47:31,740 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-18 11:47:35,424 - INFO - AI Character Simulation initialized successfully
+2025-01-18 11:47:35,427 - INFO - Created Indian character: Arjun Patel
+2025-01-18 11:47:35,427 - INFO - Created Korean character: Min-ji Kim
+2025-01-18 11:47:35,435 - INFO - Starting simulation for Arjun Patel for 0.5 hours
+2025-01-18 11:50:15,042 - INFO - Simulation interrupted by user
+2025-01-18 11:50:15,043 - INFO - Simulation ended for Arjun Patel
+2025-01-18 11:50:15,043 - INFO - Starting simulation for Min-ji Kim for 0.5 hours
+2025-01-18 11:50:15,589 - INFO - Simulation interrupted by user
+2025-01-18 11:50:15,589 - INFO - Simulation ended for Min-ji Kim
+2025-01-18 11:50:22,748 - INFO - Configuration loaded from config/config.yaml
+2025-01-18 11:50:22,748 - INFO - Initializing text generation model...
+2025-01-18 11:50:25,924 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-18 11:50:28,650 - INFO - AI Character Simulation initialized successfully
+2025-01-18 11:50:28,650 - INFO - Created Indian character: Diya Reddy
+2025-01-18 11:50:28,650 - INFO - Created Korean character: Tae-hyung Kang
+2025-01-18 11:50:28,658 - INFO - Starting simulation for Diya Reddy for 0.03 hours
+2025-01-18 11:51:03,800 - INFO - 
+==================================================
+2025-01-18 11:51:03,806 - INFO - New post from Diya Reddy (2025-01-18 11:51:03.800725)
+2025-01-18 11:51:03,806 - INFO - Current activity: Yoga/Meditation
+2025-01-18 11:51:03,806 - INFO - Mood: calm
+2025-01-18 11:51:03,806 - INFO - Content type: text
+2025-01-18 11:51:03,806 - INFO - 
+Content:
+Speaking as someone who is Detail-oriented, Speaking as someone who is Empathetic, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 25-year-old Software Developer from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about open source projects tips. Include references to your interests in Classical music, Yoga while maintaining your Detail-oriented, Empathetic personality.
+
+It's been a long time since I've written a story but I'm still in the process of getting my own blog post out. I will try to get this post to you in a few days.
+2025-01-18 11:51:03,807 - INFO - 
+Hashtags: #Chennai,IndiaLife #opensourceprojectstips #Storytime #calm #Yoga/Meditation
+2025-01-18 11:51:33,845 - ERROR - Error during simulation: Input length of input_ids is 234, but `max_length` is set to 200. This can lead to unexpected behavior. You should consider increasing `max_length` or, better yet, setting `max_new_tokens`.
+2025-01-18 11:51:33,845 - INFO - Simulation ended for Diya Reddy
+2025-01-18 11:57:17,895 - INFO - Configuration loaded from config/config.yaml
+2025-01-18 11:57:17,895 - INFO - Initializing text generation model...
+2025-01-18 11:57:20,215 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-18 11:57:23,186 - INFO - AI Character Simulation initialized successfully
+2025-01-18 11:57:23,186 - INFO - Created Indian character: Diya Reddy
+2025-01-18 11:57:23,186 - INFO - Created Korean character: Soo-min Yang
+2025-01-18 11:57:23,191 - INFO - Starting simulation for Diya Reddy for 0.03 hours
+2025-01-18 11:58:07,896 - INFO - 
+==================================================
+2025-01-18 11:58:07,896 - INFO - New post from Diya Reddy (2025-01-18 11:58:07.896009)
+2025-01-18 11:58:07,896 - INFO - Current activity: Yoga/Meditation
+2025-01-18 11:58:07,896 - INFO - Mood: neutral
+2025-01-18 11:58:07,896 - INFO - Content type: text
+2025-01-18 11:58:07,896 - INFO - 
+Content:
+Speaking as someone who is Ambitious, Speaking as someone who is Introspective, Speaking as someone who is Logical, Speaking as someone who is Creative. 
+As Diya Reddy, a 24-year-old UX Designer from Chennai, India, currently Yoga/Meditation and feeling neutral, write a Tutorial videos post about ux designer insights. Include references to your interests in Yoga, Cricket while maintaining your Ambitious, Introspective personality.
+
+For those who are interested in learning more about me, you can read about my background here:
+https://www.youtube.com/watch?v=Z0LQbXjU5j4
+I am currently a freelance UX/UI Designer, working in India. I am a strong believer in the concept of Creativity and I feel that Creativeness is the most important aspect of life. As an Am ambitious person, I believe in creating a beautiful, beautiful work that inspires others. My work has been featured in several prestigious publications, such as the New York Times, Forbes, Fortune, Wired, The Guardian, and many others, including, the Wall Street Journal, New Republic, USA Today, CNN, Huffington Post, Bloomberg, etc.
+2025-01-18 11:58:07,896 - INFO - 
+Hashtags: #Chennai,IndiaLife #uxdesignerinsights #Tutorialvideos #neutral #Yoga/Meditation
+2025-01-18 11:58:29,929 - INFO - 
+==================================================
+2025-01-18 11:58:29,929 - INFO - New post from Diya Reddy (2025-01-18 11:58:29.929350)
+2025-01-18 11:58:29,929 - INFO - Current activity: Yoga/Meditation
+2025-01-18 11:58:29,930 - INFO - Mood: focused
+2025-01-18 11:58:29,930 - INFO - Content type: text
+2025-01-18 11:58:29,930 - INFO - 
+Content:
+Speaking as someone who is Ambitious, Speaking as someone who is Introspective, Speaking as someone who is Logical, Speaking as someone who is Creative. Speaking as someone who is Ambitious, Speaking as someone who is Introspective, Speaking as someone who is Logical, Speaking as someone who is Creative. 
+As Diya Reddy, a 24-year-old UX Designer from Chennai, India, currently Yoga/Meditation and feeling neutral, write a Tutorial videos post about ux designer insights. Include references to your interests in Yoga, Cricket while maintaining your Ambitious, Introspective personality.
+
+For those who are interested in learning more about me, you can read about my background here:
+https://www.youtube.com/watch?v=Z0LQbXjU5j4
+I am currently a freelance UX/UI Designer, working in India. I am a strong believer in the concept of Creativity and I feel that Creativeness is the most important aspect of life. As an Am ambitious person, I believe in creating a beautiful, beautiful work that inspires others. My work has been featured in several prestigious publications, such as the New York Times, Forbes, Fortune, Wired, The Guardian, and many others, including, the Wall Street Journal, New Republic, USA Today, CNN, Huffington Post, Bloomberg, etc.
+As Diya Reddy, a 24-year-old UX Designer from Chennai, India, currently Yoga/Meditation and feeling focused, write a Day-in-life vlogs post about professional networking tips. Include references to your interests in Yoga, Cricket while maintaining your Ambitious, Introspective personality.
+2025-01-18 11:58:29,930 - INFO - 
+Hashtags: #Chennai,IndiaLife #professionalnetworkingtips #Day-in-lifevlogs #focused #Yoga/Meditation
+2025-01-18 11:58:59,972 - ERROR - Error during simulation: Input length of input_ids is 681, but `max_length` is set to 512. This can lead to unexpected behavior. You should consider increasing `max_length` or, better yet, setting `max_new_tokens`.
+2025-01-18 11:58:59,973 - INFO - Simulation ended for Diya Reddy
+2025-01-18 12:03:02,400 - INFO - Configuration loaded from config/config.yaml
+2025-01-18 12:03:02,400 - INFO - Initializing text generation model...
+2025-01-18 12:03:06,503 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-18 12:03:10,284 - INFO - AI Character Simulation initialized successfully
+2025-01-18 12:03:10,284 - INFO - Created Indian character: Diya Reddy
+2025-01-18 12:03:10,284 - INFO - Created Korean character: Yoo-jin Hwang
+2025-01-18 12:03:10,287 - INFO - Starting simulation for Diya Reddy for 0.03 hours
+2025-01-18 12:03:50,126 - INFO - 
+==================================================
+2025-01-18 12:03:50,133 - INFO - New post from Diya Reddy (2025-01-18 12:03:50.126703)
+2025-01-18 12:03:50,133 - INFO - Current activity: Yoga/Meditation
+2025-01-18 12:03:50,134 - INFO - Mood: calm
+2025-01-18 12:03:50,134 - INFO - Content type: text
+2025-01-18 12:03:50,134 - INFO - 
+Content:
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+2025-01-18 12:03:50,135 - INFO - 
+Hashtags: #Chennai,IndiaLife #bollywoodmoviestips #Day-in-lifevlogs #calm #Yoga/Meditation
+2025-01-18 12:04:21,792 - INFO - 
+==================================================
+2025-01-18 12:04:21,792 - INFO - New post from Diya Reddy (2025-01-18 12:04:21.792378)
+2025-01-18 12:04:21,793 - INFO - Current activity: Yoga/Meditation
+2025-01-18 12:04:21,793 - INFO - Mood: calm
+2025-01-18 12:04:21,793 - INFO - Content type: text
+2025-01-18 12:04:21,793 - INFO - 
+Content:
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+2025-01-18 12:04:21,793 - INFO - 
+Hashtags: #Chennai,IndiaLife #photographytips #Storytime #calm #Yoga/Meditation
+2025-01-18 12:04:55,350 - INFO - 
+==================================================
+2025-01-18 12:04:55,352 - INFO - New post from Diya Reddy (2025-01-18 12:04:55.350780)
+2025-01-18 12:04:55,352 - INFO - Current activity: Yoga/Meditation
+2025-01-18 12:04:55,353 - INFO - Mood: focused
+2025-01-18 12:04:55,353 - INFO - Content type: text
+2025-01-18 12:04:55,353 - INFO - 
+Content:
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling focused, write a Tutorial videos post about professional networking tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+2025-01-18 12:04:55,354 - INFO - 
+Hashtags: #Chennai,IndiaLife #professionalnetworkingtips #Tutorialvideos #focused #Yoga/Meditation
+2025-01-18 12:05:05,382 - INFO - Simulation ended for Diya Reddy
+2025-01-18 12:05:05,383 - INFO - Starting simulation for Yoo-jin Hwang for 0.03 hours
+2025-01-18 12:05:44,273 - INFO - 
+==================================================
+2025-01-18 12:05:44,274 - INFO - New post from Yoo-jin Hwang (2025-01-18 12:05:44.273517)
+2025-01-18 12:05:44,275 - INFO - Current activity: Morning exercise
+2025-01-18 12:05:44,275 - INFO - Mood: neutral
+2025-01-18 12:05:44,275 - INFO - Content type: text
+2025-01-18 12:05:44,275 - INFO - 
+Content:
+Speaking as someone who is Analytical, Speaking as someone who is Free-spirited, Speaking as someone who is Social, Speaking as someone who is Ambitious. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling focused, write a Tutorial videos post about professional networking tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+As Yoo-jin Hwang, a 27-year-old Content Creator from Daejeon, South Korea, currently Morning exercise and feeling neutral, write a Quick tips post about social media trends tips. Include references to your interests in Gaming, Electronic music while maintaining your Analytical, Free-spirited personality.
+2025-01-18 12:05:44,276 - INFO - 
+Hashtags: #Daejeon,SouthKoreaLife #socialmediatrendstips #Quicktips #neutral #Morningexercise
+2025-01-18 12:06:36,914 - INFO - 
+==================================================
+2025-01-18 12:06:36,919 - INFO - New post from Yoo-jin Hwang (2025-01-18 12:06:36.914081)
+2025-01-18 12:06:36,919 - INFO - Current activity: Morning exercise
+2025-01-18 12:06:36,920 - INFO - Mood: excited
+2025-01-18 12:06:36,920 - INFO - Content type: text
+2025-01-18 12:06:36,920 - INFO - 
+Content:
+You won't believe what happened! Speaking as someone who is Analytical, Speaking as someone who is Free-spirited, Speaking as someone who is Social, Speaking as someone who is Ambitious. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling focused, write a Tutorial videos post about professional networking tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+Speaking as someone who is Analytical, Speaking as someone who is Free-spirited, Speaking as someone who is Social, Speaking as someone who is Ambitious. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. Speaking as someone who is Introspective, Speaking as someone who is Analytical, Speaking as someone who is Ambitious, Speaking as someone who is Social. 
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Day-in-life vlogs post about bollywood movies tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+
+I will be writing a vid for you and posting it on here tomorrow. I hope to get feedback from you!
+Thanks in advance for watching!
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling calm, write a Story time post about photography tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+As Diya Reddy, a 24-year-old Data Scientist from Chennai, India, currently Yoga/Meditation and feeling focused, write a Tutorial videos post about professional networking tips. Include references to your interests in Photography, Cricket while maintaining your Introspective, Analytical personality.
+As Yoo-jin Hwang, a 27-year-old Content Creator from Daejeon, South Korea, currently Morning exercise and feeling neutral, write a Quick tips post about social media trends tips. Include references to your interests in Gaming, Electronic music while maintaining your Analytical, Free-spirited personality.
+As Yoo-jin Hwang, a 27-year-old Content Creator from Daejeon, South Korea, currently Morning exercise and feeling excited, write a Tutorial videos post about video editing tips. Include references to your interests in Gaming, Electronic music while maintaining your Analytical, Free-spirited personality.
+2025-01-18 12:06:36,920 - INFO - 
+Hashtags: #Daejeon,SouthKoreaLife #videoeditingtips #Tutorialvideos #excited #Morningexercise
+2025-01-18 12:06:46,969 - ERROR - Error during simulation: Input length of input_ids is 3075, but `max_length` is set to 2000. This can lead to unexpected behavior. You should consider increasing `max_length` or, better yet, setting `max_new_tokens`.
+2025-01-18 12:06:46,970 - INFO - Simulation ended for Yoo-jin Hwang
+2025-01-22 16:14:01,241 - INFO - Configuration loaded from config/config.yaml
+2025-01-22 16:14:01,241 - INFO - Using default character data
+2025-01-22 16:14:01,241 - INFO - Initialized CharacterGenerator
+2025-01-22 16:14:01,241 - INFO - Initializing generation models...
+2025-01-22 16:14:02,665 - ERROR - Error initializing generators: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install 'accelerate>=0.26.0'`
+2025-01-22 16:14:02,665 - ERROR - Simulation failed: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install 'accelerate>=0.26.0'`
+2025-01-22 16:16:32,487 - INFO - Configuration loaded from config/config.yaml
+2025-01-22 16:16:32,487 - INFO - Using default character data
+2025-01-22 16:16:32,487 - INFO - Initialized CharacterGenerator
+2025-01-22 16:16:32,487 - INFO - Initializing generation models...
+2025-01-22 16:16:36,286 - INFO - Initialized TextGenerator with device: cpu
+2025-01-22 16:16:36,286 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-22 16:16:36,286 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-22 16:16:36,286 - INFO - Image generator initialized
+2025-01-22 16:16:36,286 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-22 16:16:36,287 - INFO - Audio generator initialized
+2025-01-22 16:16:36,287 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-22 16:16:36,287 - INFO - Video generator initialized
+2025-01-22 16:16:36,287 - INFO - Cleaned up ContentGenerator resources
+2025-01-22 16:16:36,287 - ERROR - Error initializing generators: ContentGenerator.__init__() got an unexpected keyword argument 'text_generator'
+2025-01-22 16:16:36,287 - ERROR - Simulation failed: ContentGenerator.__init__() got an unexpected keyword argument 'text_generator'
+2025-01-22 16:17:48,246 - INFO - Cleaned up TextGenerator resources
+2025-01-22 16:17:48,369 - INFO - Cleaned up ImageGenerator resources
+2025-01-22 16:17:48,369 - INFO - Cleaned up AudioGenerator resources
+2025-01-22 16:17:48,521 - INFO - Cleaned up VideoGenerator resources
+2025-01-22 17:01:22,622 - INFO - Configuration loaded from config/config.yaml
+2025-01-22 17:01:22,622 - INFO - Using default character data
+2025-01-22 17:01:22,622 - INFO - Initialized CharacterGenerator
+2025-01-22 17:01:22,622 - INFO - Initializing generation models...
+2025-01-22 17:01:25,976 - INFO - Initialized TextGenerator with device: cpu
+2025-01-22 17:01:25,976 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-22 17:01:25,977 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-22 17:01:25,977 - INFO - Image generator initialized
+2025-01-22 17:01:25,977 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-22 17:01:25,977 - INFO - Audio generator initialized
+2025-01-22 17:01:25,977 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-22 17:01:25,977 - INFO - Video generator initialized
+2025-01-22 17:01:25,978 - INFO - Cleaned up ContentGenerator resources
+2025-01-22 17:01:25,978 - ERROR - Error initializing generators: ContentGenerator.__init__() got an unexpected keyword argument 'text_generator'
+2025-01-22 17:01:25,978 - ERROR - Simulation failed: ContentGenerator.__init__() got an unexpected keyword argument 'text_generator'
+2025-01-22 17:01:27,427 - INFO - Cleaned up TextGenerator resources
+2025-01-22 17:01:27,516 - INFO - Cleaned up ImageGenerator resources
+2025-01-22 17:01:27,517 - INFO - Cleaned up AudioGenerator resources
+2025-01-22 17:01:27,655 - INFO - Cleaned up VideoGenerator resources
+2025-01-22 17:09:23,764 - INFO - Configuration loaded from config/config.yaml
+2025-01-22 17:09:23,764 - INFO - Using default character data
+2025-01-22 17:09:23,764 - INFO - Initialized CharacterGenerator
+2025-01-22 17:09:23,764 - INFO - Initializing generation models...
+2025-01-22 17:09:26,835 - INFO - Initialized TextGenerator with device: cpu
+2025-01-22 17:09:26,835 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-22 17:09:26,835 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-22 17:09:26,835 - INFO - Image generator initialized
+2025-01-22 17:09:26,835 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-22 17:09:26,835 - INFO - Audio generator initialized
+2025-01-22 17:09:26,835 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-22 17:09:26,836 - INFO - Video generator initialized
+2025-01-22 17:09:26,836 - INFO - Cleaned up ContentGenerator resources
+2025-01-22 17:09:26,836 - ERROR - Error initializing generators: ContentGenerator.__init__() got an unexpected keyword argument 'text_generator'
+2025-01-22 17:09:26,836 - ERROR - Simulation failed: ContentGenerator.__init__() got an unexpected keyword argument 'text_generator'
+2025-01-22 17:09:30,609 - INFO - Cleaned up TextGenerator resources
+2025-01-22 17:09:30,686 - INFO - Cleaned up ImageGenerator resources
+2025-01-22 17:09:30,687 - INFO - Cleaned up AudioGenerator resources
+2025-01-22 17:09:30,815 - INFO - Cleaned up VideoGenerator resources
+2025-01-22 20:00:21,485 - INFO - Configuration loaded from config/config.yaml
+2025-01-22 20:00:21,485 - INFO - Using default character data
+2025-01-22 20:00:21,485 - INFO - Initialized CharacterGenerator
+2025-01-22 20:00:21,485 - INFO - Initializing generation models...
+2025-01-22 20:00:25,795 - INFO - Initialized TextGenerator with device: cpu
+2025-01-22 20:00:25,796 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-22 20:00:25,796 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-22 20:00:25,796 - INFO - Image generator initialized
+2025-01-22 20:00:25,796 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-22 20:00:25,796 - INFO - Audio generator initialized
+2025-01-22 20:00:25,797 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-22 20:00:25,797 - INFO - Video generator initialized
+2025-01-22 20:00:25,799 - INFO - AI Character Simulation initialized successfully
+2025-01-22 20:00:25,799 - INFO - Generating character for region: India
+2025-01-22 20:00:25,799 - INFO - Successfully generated character: Zara Menon
+2025-01-22 20:00:25,799 - INFO - Created Indian character: Zara Menon
+2025-01-22 20:00:25,799 - INFO - Generating character for region: South Korea
+2025-01-22 20:00:25,800 - INFO - Successfully generated character: Hae-won Jung
+2025-01-22 20:00:25,800 - INFO - Created Korean character: Hae-won Jung
+2025-01-22 20:00:25,800 - INFO - Starting simulation for character: indian
+2025-01-22 20:00:25,800 - INFO - Starting simulation for Zara Menon for 24.0 hours
+2025-01-22 20:01:55,413 - INFO - Simulation interrupted by user
+2025-01-22 20:01:55,413 - INFO - Simulation ended for Zara Menon
+2025-01-22 20:01:55,413 - INFO - Starting simulation for character: korean
+2025-01-22 20:01:55,413 - INFO - Starting simulation for Hae-won Jung for 24.0 hours
+2025-01-22 20:01:56,871 - INFO - Simulation interrupted by user
+2025-01-22 20:01:56,871 - INFO - Simulation ended for Hae-won Jung
+2025-01-22 20:01:56,871 - INFO - Cleaned up TextGenerator resources
+2025-01-22 20:01:56,974 - INFO - Cleaned up ImageGenerator resources
+2025-01-22 20:01:56,975 - INFO - Cleaned up AudioGenerator resources
+2025-01-22 20:01:57,101 - INFO - Cleaned up VideoGenerator resources
+2025-01-22 20:05:02,483 - INFO - Configuration loaded from config/config.yaml
+2025-01-22 20:05:02,483 - INFO - Using default character data
+2025-01-22 20:05:02,484 - INFO - Initialized CharacterGenerator
+2025-01-22 20:05:02,484 - INFO - Initializing generation models...
+2025-01-22 20:05:04,739 - INFO - Initialized TextGenerator with device: cpu
+2025-01-22 20:05:04,739 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-22 20:05:04,739 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-22 20:05:04,739 - INFO - Image generator initialized
+2025-01-22 20:05:04,739 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-22 20:05:04,740 - INFO - Audio generator initialized
+2025-01-22 20:05:04,740 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-22 20:05:04,740 - INFO - Video generator initialized
+2025-01-22 20:05:04,740 - INFO - AI Character Simulation initialized successfully
+2025-01-22 20:05:04,740 - INFO - Generating character for region: India
+2025-01-22 20:05:04,740 - INFO - Successfully generated character: Diya Reddy
+2025-01-22 20:05:04,740 - INFO - Created Indian character: Diya Reddy
+2025-01-22 20:05:04,740 - INFO - Generating character for region: South Korea
+2025-01-22 20:05:04,741 - INFO - Successfully generated character: Tae-hyung Kang
+2025-01-22 20:05:04,741 - INFO - Created Korean character: Tae-hyung Kang
+2025-01-22 20:05:04,741 - INFO - Starting simulation for Diya Reddy for 0.1 hours
+2025-01-22 20:05:24,760 - INFO - Generating text for mood: sociable, topic: cricket tips
+2025-01-22 20:05:38,266 - INFO - Successfully generated text
+2025-01-22 20:05:38,267 - INFO - 
+==================================================
+2025-01-22 20:05:38,267 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:05:38,267 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:05:38,267 - INFO - Mood: sociable
+2025-01-22 20:05:38,267 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:05:38,267 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:05:38,267 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:05:48,280 - INFO - 
+==================================================
+2025-01-22 20:05:48,281 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:05:48,281 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:05:48,281 - INFO - Mood: sociable
+2025-01-22 20:05:48,281 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:05:48,282 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:05:48,282 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:06:08,296 - INFO - 
+==================================================
+2025-01-22 20:06:08,296 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:06:08,297 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:06:08,297 - INFO - Mood: sociable
+2025-01-22 20:06:08,297 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:06:08,297 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:06:08,297 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:06:28,320 - INFO - 
+==================================================
+2025-01-22 20:06:28,321 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:06:28,321 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:06:28,321 - INFO - Mood: sociable
+2025-01-22 20:06:28,321 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:06:28,322 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:06:28,322 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:06:48,348 - INFO - 
+==================================================
+2025-01-22 20:06:48,348 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:06:48,349 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:06:48,349 - INFO - Mood: sociable
+2025-01-22 20:06:48,349 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:06:48,350 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:06:48,350 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:07:08,375 - INFO - 
+==================================================
+2025-01-22 20:07:08,376 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:07:08,376 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:07:08,376 - INFO - Mood: sociable
+2025-01-22 20:07:08,376 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:07:08,377 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:07:08,377 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:07:28,404 - INFO - 
+==================================================
+2025-01-22 20:07:28,405 - INFO - New post from Diya Reddy (2025-01-22 20:05:38.267071)
+2025-01-22 20:07:28,405 - INFO - Current activity: Yoga/Meditation
+2025-01-22 20:07:28,405 - INFO - Mood: sociable
+2025-01-22 20:07:28,405 - INFO - Content type: day-in-life vlogs
+2025-01-22 20:07:28,405 - INFO - 
+Content:
+Speaking as someone who is Social, Speaking as someone who is Creative, Speaking as someone who is Analytical, Speaking as someone who is Curious. As Diya Reddy, a 25-year-old UX Designer from Delhi, India, currently Yoga/Meditation and feeling sociable, write a Day-in-life vlogs post about cricket tips. Include references to your interests in Photography, Cricket while maintaining your Social, Creative personality.
+
+A common question I get asked the most is "how do I start a blog?". I've done it before and it's a lot of fun and I enjoy it, but I always get stuck in the "blog" stage and don't know what to do next. What do you recommend?
+I'm currently working on a few projects and am wondering what others have done, if any. I have a website, which I hope to be able to monetize, and my first blog post is due on May 12th. Is there a specific way to start my blog? I'm still working out my ideas and what I want to blog about. Thanks in advance!
+—
+Hi,
+It's good to know that you are working hard to get your blog up and running. How about getting started with your website? What does your online presence look like? If you have any questions, let me know. Thank you.
+2025-01-22 20:07:28,406 - INFO - 
+Hashtags: #Sociable #YogaMeditation #CricketTips #DelhiLife #IndiaLife #DayInLifeVlogs #pmDelhi
+2025-01-22 20:07:32,003 - INFO - Simulation interrupted by user
+2025-01-22 20:07:32,004 - INFO - Simulation ended for Diya Reddy
+2025-01-22 20:07:32,004 - INFO - Starting simulation for Tae-hyung Kang for 0.1 hours
+2025-01-22 20:07:32,555 - INFO - Simulation interrupted by user
+2025-01-22 20:07:32,555 - INFO - Simulation ended for Tae-hyung Kang
+2025-01-22 20:07:32,555 - INFO - Cleaned up TextGenerator resources
+2025-01-22 20:07:32,568 - INFO - Cleaned up ImageGenerator resources
+2025-01-22 20:07:32,568 - INFO - Cleaned up AudioGenerator resources
+2025-01-22 20:07:32,670 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 22:26:26,590 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 22:26:26,591 - INFO - Using default character data
+2025-01-23 22:26:26,591 - INFO - Initialized CharacterGenerator
+2025-01-23 22:26:26,591 - INFO - Initializing generation models...
+2025-01-23 22:26:29,807 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 22:26:29,808 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 22:26:29,808 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 22:26:29,808 - INFO - Image generator initialized
+2025-01-23 22:26:29,808 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 22:26:29,808 - INFO - Audio generator initialized
+2025-01-23 22:26:29,809 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 22:26:29,809 - INFO - Video generator initialized
+2025-01-23 22:26:29,809 - INFO - AI Character Simulation initialized successfully
+2025-01-23 22:26:29,809 - INFO - Generating character for region: India
+2025-01-23 22:26:29,810 - INFO - Successfully generated character: Advait Kumar
+2025-01-23 22:26:29,810 - INFO - Created Indian character: Advait Kumar
+2025-01-23 22:26:29,810 - INFO - Generating character for region: South Korea
+2025-01-23 22:26:29,810 - INFO - Successfully generated character: Hae-won Jung
+2025-01-23 22:26:29,810 - INFO - Created Korean character: Hae-won Jung
+2025-01-23 22:26:29,811 - INFO - Starting simulation for Advait Kumar for 0.1 hours
+2025-01-23 22:26:49,831 - INFO - Generating text for mood: friendly, topic: Coding tips
+2025-01-23 22:26:56,916 - INFO - Successfully generated text
+2025-01-23 22:26:56,916 - ERROR - Post generation error: Unsupported culture: India
+2025-01-23 22:26:56,916 - ERROR - Error during simulation: Unsupported culture: India
+2025-01-23 22:26:56,916 - INFO - Simulation ended for Advait Kumar
+2025-01-23 22:26:57,051 - INFO - Cleaned up TextGenerator resources
+2025-01-23 22:26:57,062 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 22:26:57,063 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 22:26:57,202 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 22:32:18,645 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 22:32:18,645 - INFO - Using default character data
+2025-01-23 22:32:18,646 - INFO - Initialized CharacterGenerator
+2025-01-23 22:32:18,646 - INFO - Initializing generation models...
+2025-01-23 22:32:21,037 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 22:32:21,038 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 22:32:21,038 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 22:32:21,038 - INFO - Image generator initialized
+2025-01-23 22:32:21,038 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 22:32:21,038 - INFO - Audio generator initialized
+2025-01-23 22:32:21,038 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 22:32:21,038 - INFO - Video generator initialized
+2025-01-23 22:32:21,039 - INFO - AI Character Simulation initialized successfully
+2025-01-23 22:32:21,039 - INFO - Generating character for region: India
+2025-01-23 22:32:21,039 - INFO - Successfully generated character: Arjun Patel
+2025-01-23 22:32:21,039 - INFO - Created Indian character: Arjun Patel
+2025-01-23 22:32:21,039 - INFO - Generating character for region: South Korea
+2025-01-23 22:32:21,040 - INFO - Successfully generated character: Jun-ho Park
+2025-01-23 22:32:21,040 - INFO - Created Korean character: Jun-ho Park
+2025-01-23 22:32:21,041 - INFO - Starting simulation for Arjun Patel for 0.1 hours
+2025-01-23 22:32:41,061 - INFO - Generating text for mood: positive, topic: Game development
+2025-01-23 22:33:03,715 - INFO - Successfully generated text
+2025-01-23 22:33:03,715 - ERROR - Post generation error: Unsupported culture: India
+2025-01-23 22:33:03,715 - ERROR - Error during simulation: Unsupported culture: India
+2025-01-23 22:33:03,715 - INFO - Simulation ended for Arjun Patel
+2025-01-23 22:33:03,824 - INFO - Cleaned up TextGenerator resources
+2025-01-23 22:33:03,836 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 22:33:03,836 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 22:33:03,969 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 22:39:24,121 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 22:39:24,121 - INFO - Using default character data
+2025-01-23 22:39:24,121 - INFO - Initialized CharacterGenerator
+2025-01-23 22:39:24,121 - INFO - Initializing generation models...
+2025-01-23 22:39:26,796 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 22:39:26,796 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 22:39:26,797 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 22:39:26,797 - INFO - Image generator initialized
+2025-01-23 22:39:26,797 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 22:39:26,797 - INFO - Audio generator initialized
+2025-01-23 22:39:26,797 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 22:39:26,797 - INFO - Video generator initialized
+2025-01-23 22:39:26,797 - INFO - AI Character Simulation initialized successfully
+2025-01-23 22:39:26,797 - INFO - Generating character for region: India
+2025-01-23 22:39:26,797 - INFO - Successfully generated character: Diya Reddy
+2025-01-23 22:39:26,797 - INFO - Created Indian character: Diya Reddy
+2025-01-23 22:39:26,797 - INFO - Generating character for region: South Korea
+2025-01-23 22:39:26,797 - INFO - Successfully generated character: Jun-ho Park
+2025-01-23 22:39:26,797 - INFO - Created Korean character: Jun-ho Park
+2025-01-23 22:39:26,798 - INFO - Starting simulation for Diya Reddy for 0.1 hours
+2025-01-23 22:39:46,819 - INFO - Generating text for mood: calm, topic: industry events tips
+2025-01-23 22:39:50,266 - INFO - Successfully generated text
+2025-01-23 22:39:50,266 - INFO - Generating image for style: professional, culture: India
+2025-01-23 22:39:50,266 - INFO - Loading Stable Diffusion model
+2025-01-23 22:50:02,750 - ERROR - Error generating image: expected str, bytes or os.PathLike object, not NoneType
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/image_generation.py", line 80, in generate_with_style
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+  File "/usr/lib/python3.10/posixpath.py", line 152, in dirname
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+2025-01-23 22:50:02,781 - ERROR - Post generation error: expected str, bytes or os.PathLike object, not NoneType
+2025-01-23 22:50:02,783 - ERROR - Error during simulation: expected str, bytes or os.PathLike object, not NoneType
+2025-01-23 22:50:02,783 - INFO - Simulation ended for Diya Reddy
+2025-01-23 22:50:05,826 - INFO - Cleaned up TextGenerator resources
+2025-01-23 22:50:06,145 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 22:50:06,145 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 22:50:06,316 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 22:54:43,355 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 22:54:43,355 - INFO - Using default character data
+2025-01-23 22:54:43,355 - INFO - Initialized CharacterGenerator
+2025-01-23 22:54:43,355 - INFO - Initializing generation models...
+2025-01-23 22:54:51,554 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 22:54:51,555 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 22:54:51,555 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 22:54:51,555 - INFO - Image generator initialized
+2025-01-23 22:54:51,555 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 22:54:51,555 - INFO - Audio generator initialized
+2025-01-23 22:54:51,555 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 22:54:51,555 - INFO - Video generator initialized
+2025-01-23 22:54:51,556 - INFO - AI Character Simulation initialized successfully
+2025-01-23 22:54:51,556 - INFO - Generating character for region: India
+2025-01-23 22:54:51,556 - INFO - Successfully generated character: Anaya Gupta
+2025-01-23 22:54:51,556 - INFO - Created Indian character: Anaya Gupta
+2025-01-23 22:54:51,556 - INFO - Generating character for region: South Korea
+2025-01-23 22:54:51,557 - INFO - Successfully generated character: Yoo-jin Hwang
+2025-01-23 22:54:51,557 - INFO - Created Korean character: Yoo-jin Hwang
+2025-01-23 22:54:51,558 - INFO - Starting simulation for Anaya Gupta for 0.1 hours
+2025-01-23 22:55:11,578 - INFO - Generating text for mood: exploring, topic: ux designer insights
+2025-01-23 22:55:18,051 - INFO - Successfully generated text
+2025-01-23 22:55:18,053 - INFO - Generating image for style: professional, culture: India
+2025-01-23 22:55:18,053 - INFO - Loading Stable Diffusion model
+2025-01-23 22:58:55,859 - INFO - Successfully generated image: generated_images/india_professional_image.png
+2025-01-23 22:58:55,875 - INFO - Generating audio for style: professional
+2025-01-23 22:58:55,876 - INFO - Loading SpeechT5Processor
+2025-01-23 22:58:56,808 - ERROR - Error generating audio: 
+SpeechT5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/audio_generation.py", line 81, in generate_with_style
+    inputs = self.processor(text=text, return_tensors="pt").to(self.device)
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/audio_generation.py", line 35, in processor
+    self._processor = SpeechT5Processor.from_pretrained("microsoft/speecht5_tts")
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/processing_utils.py", line 1035, in from_pretrained
+    args = cls._get_arguments_from_pretrained(pretrained_model_name_or_path, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/processing_utils.py", line 1081, in _get_arguments_from_pretrained
+    args.append(attribute_class.from_pretrained(pretrained_model_name_or_path, **kwargs))
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1725, in __getattribute__
+    requires_backends(cls, cls._backends)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1713, in requires_backends
+    raise ImportError("".join(failed))
+ImportError: 
+SpeechT5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-01-23 22:58:56,816 - ERROR - Post generation error: 
+SpeechT5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-01-23 22:58:56,816 - ERROR - Error during simulation: 
+SpeechT5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-01-23 22:58:56,817 - INFO - Simulation ended for Anaya Gupta
+2025-01-23 22:58:59,580 - INFO - Cleaned up TextGenerator resources
+2025-01-23 22:58:59,881 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 22:58:59,881 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 22:58:59,882 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 23:02:44,537 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 23:02:44,537 - INFO - Using default character data
+2025-01-23 23:02:44,537 - INFO - Initialized CharacterGenerator
+2025-01-23 23:02:44,537 - INFO - Initializing generation models...
+2025-01-23 23:02:47,602 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 23:02:47,602 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 23:02:47,602 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 23:02:47,602 - INFO - Image generator initialized
+2025-01-23 23:02:47,602 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 23:02:47,603 - INFO - Audio generator initialized
+2025-01-23 23:02:47,603 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 23:02:47,603 - INFO - Video generator initialized
+2025-01-23 23:02:47,603 - INFO - AI Character Simulation initialized successfully
+2025-01-23 23:02:47,603 - INFO - Generating character for region: India
+2025-01-23 23:02:47,604 - INFO - Successfully generated character: Arjun Patel
+2025-01-23 23:02:47,604 - INFO - Created Indian character: Arjun Patel
+2025-01-23 23:02:47,604 - INFO - Generating character for region: South Korea
+2025-01-23 23:02:47,604 - INFO - Successfully generated character: Min-ji Kim
+2025-01-23 23:02:47,604 - INFO - Created Korean character: Min-ji Kim
+2025-01-23 23:02:47,605 - INFO - Starting simulation for Arjun Patel for 0.1 hours
+2025-01-23 23:03:07,626 - INFO - Generating text for mood: neutral, topic: bollywood movies tips
+2025-01-23 23:03:36,795 - INFO - Successfully generated text
+2025-01-23 23:03:36,800 - INFO - Generating image for style: professional, culture: India
+2025-01-23 23:03:36,801 - INFO - Loading Stable Diffusion model
+2025-01-23 23:07:12,911 - INFO - Successfully generated image: generated_images/india_professional_image.png
+2025-01-23 23:07:12,923 - INFO - Generating audio for style: professional
+2025-01-23 23:07:12,923 - INFO - Loading SpeechT5Processor
+2025-01-23 23:07:17,715 - INFO - Loading SpeechT5ForTextToSpeech
+2025-01-23 23:08:13,404 - INFO - Loading speaker embeddings
+2025-01-23 23:08:28,075 - ERROR - Error generating audio: The size of tensor a (1828) must match the size of tensor b (600) at non-singleton dimension 1
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/audio_generation.py", line 84, in generate_with_style
+    speech = self.model.generate_speech(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/models/speecht5/modeling_speecht5.py", line 2937, in generate_speech
+    return _generate_speech(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/models/speecht5/modeling_speecht5.py", line 2491, in _generate_speech
+    encoder_out = model.speecht5.encoder(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/models/speecht5/modeling_speecht5.py", line 1450, in forward
+    hidden_states = self.prenet(input_values)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/models/speecht5/modeling_speecht5.py", line 790, in forward
+    inputs_embeds = self.encode_positions(inputs_embeds)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/transformers/models/speecht5/modeling_speecht5.py", line 420, in forward
+    emb = emb + self.alpha * self.pe[:, : emb.size(1)]
+RuntimeError: The size of tensor a (1828) must match the size of tensor b (600) at non-singleton dimension 1
+2025-01-23 23:08:28,082 - ERROR - Post generation error: The size of tensor a (1828) must match the size of tensor b (600) at non-singleton dimension 1
+2025-01-23 23:08:28,082 - ERROR - Error during simulation: The size of tensor a (1828) must match the size of tensor b (600) at non-singleton dimension 1
+2025-01-23 23:08:28,083 - INFO - Simulation ended for Arjun Patel
+2025-01-23 23:09:27,653 - INFO - Cleaned up TextGenerator resources
+2025-01-23 23:09:28,063 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 23:09:28,065 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 23:09:28,066 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 23:14:28,482 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 23:14:28,483 - INFO - Using default character data
+2025-01-23 23:14:28,483 - INFO - Initialized CharacterGenerator
+2025-01-23 23:14:28,483 - INFO - Initializing generation models...
+2025-01-23 23:14:32,573 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 23:14:32,574 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 23:14:32,574 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 23:14:32,574 - INFO - Image generator initialized
+2025-01-23 23:14:32,574 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 23:14:32,574 - INFO - Audio generator initialized
+2025-01-23 23:14:32,574 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 23:14:32,574 - INFO - Video generator initialized
+2025-01-23 23:14:32,575 - INFO - AI Character Simulation initialized successfully
+2025-01-23 23:14:32,575 - INFO - Generating character for region: India
+2025-01-23 23:14:32,575 - INFO - Successfully generated character: Advait Kumar
+2025-01-23 23:14:32,575 - INFO - Created Indian character: Advait Kumar
+2025-01-23 23:14:32,575 - INFO - Generating character for region: South Korea
+2025-01-23 23:14:32,576 - INFO - Successfully generated character: Seo-yeon Lee
+2025-01-23 23:14:32,576 - INFO - Created Korean character: Seo-yeon Lee
+2025-01-23 23:14:32,576 - INFO - Starting simulation for Advait Kumar for 0.1 hours
+2025-01-23 23:14:52,588 - INFO - Generating text for mood: quiet, topic: ai/ml tips
+2025-01-23 23:15:04,389 - INFO - Successfully generated text
+2025-01-23 23:15:04,390 - INFO - Generating image for style: professional, culture: India
+2025-01-23 23:15:04,390 - INFO - Loading Stable Diffusion model
+2025-01-23 23:19:16,639 - INFO - Successfully generated image: generated_images/india_professional_image.png
+2025-01-23 23:19:16,657 - INFO - Generating audio for style: professional
+2025-01-23 23:19:16,658 - INFO - Loading SpeechT5Processor
+2025-01-23 23:19:19,328 - INFO - Loading SpeechT5ForTextToSpeech
+2025-01-23 23:19:20,741 - INFO - Loading speaker embeddings
+2025-01-23 23:19:48,492 - INFO - Successfully generated audio: generated_audio/professional_audio.wav
+2025-01-23 23:19:48,493 - ERROR - Post generation error: 'VideoGenerator' object has no attribute 'generate_from_prompt'
+2025-01-23 23:19:48,494 - ERROR - Error during simulation: 'VideoGenerator' object has no attribute 'generate_from_prompt'
+2025-01-23 23:19:48,494 - INFO - Simulation ended for Advait Kumar
+2025-01-23 23:19:51,046 - INFO - Cleaned up TextGenerator resources
+2025-01-23 23:19:51,388 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 23:19:51,406 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 23:19:51,407 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 23:25:00,273 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 23:25:00,273 - INFO - Using default character data
+2025-01-23 23:25:00,273 - INFO - Initialized CharacterGenerator
+2025-01-23 23:25:00,273 - INFO - Initializing generation models...
+2025-01-23 23:25:08,397 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 23:25:08,397 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 23:25:08,397 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 23:25:08,397 - INFO - Image generator initialized
+2025-01-23 23:25:08,397 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 23:25:08,397 - INFO - Audio generator initialized
+2025-01-23 23:25:08,397 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 23:25:08,398 - INFO - Video generator initialized
+2025-01-23 23:25:08,398 - INFO - AI Character Simulation initialized successfully
+2025-01-23 23:25:08,398 - INFO - Generating character for region: India
+2025-01-23 23:25:08,398 - INFO - Successfully generated character: Arjun Patel
+2025-01-23 23:25:08,398 - INFO - Created Indian character: Arjun Patel
+2025-01-23 23:25:08,398 - INFO - Generating character for region: South Korea
+2025-01-23 23:25:08,399 - INFO - Successfully generated character: Hae-won Jung
+2025-01-23 23:25:08,399 - INFO - Created Korean character: Hae-won Jung
+2025-01-23 23:25:08,399 - INFO - Starting simulation for Arjun Patel for 0.1 hours
+2025-01-23 23:25:28,416 - INFO - Generating text for mood: steady, topic: Gaming industry insights
+2025-01-23 23:26:17,257 - INFO - Successfully generated text
+2025-01-23 23:26:17,258 - INFO - Generating image for style: professional, culture: India
+2025-01-23 23:26:17,258 - INFO - Loading Stable Diffusion model
+2025-01-23 23:29:47,137 - INFO - Successfully generated image: generated_images/india_professional_image.png
+2025-01-23 23:29:47,146 - INFO - Generating audio for style: professional
+2025-01-23 23:29:47,146 - INFO - Loading SpeechT5Processor
+2025-01-23 23:29:48,897 - INFO - Loading SpeechT5ForTextToSpeech
+2025-01-23 23:29:50,517 - INFO - Loading speaker embeddings
+2025-01-23 23:30:20,015 - INFO - Successfully generated audio: generated_audio/professional_audio.wav
+2025-01-23 23:30:20,017 - INFO - Generating video with style: professional
+2025-01-23 23:30:20,018 - INFO - Loading VideoGenProcessor
+2025-01-23 23:42:34,032 - ERROR - Error generating video: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.10/ssl.py", line 1303, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.10/ssl.py", line 1159, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1374, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1294, in get_hf_file_metadata
+    r = _request_wrapper(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 297, in _request_wrapper
+    return _request_wrapper(method=method, url=next_url, follow_relative_redirects=True, **params)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 278, in _request_wrapper
+    response = _request_wrapper(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 301, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 93, in send
+    return super().send(request, *args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/requests/adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: (ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 98b1cedd-48d6-4404-8e74-49b4fb7c7933)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/video_generation.py", line 62, in generate_with_style
+    inputs = self.processor(
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/video_generation.py", line 32, in processor
+    self._processor = CogVideoXImageToVideoPipeline.from_pretrained("damo-vilab/text-to-video-ms-1.7b")
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_utils.py", line 732, in from_pretrained
+    cached_folder = cls.download(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_utils.py", line 1461, in download
+    cached_folder = snapshot_download(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/_snapshot_download.py", line 296, in snapshot_download
+    thread_map(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/tqdm/contrib/concurrent.py", line 69, in thread_map
+    return _executor_map(ThreadPoolExecutor, fn, *iterables, **tqdm_kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/tqdm/contrib/concurrent.py", line 51, in _executor_map
+    return list(tqdm_class(ex.map(fn, *iterables, chunksize=chunksize), **kwargs))
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 621, in result_iterator
+    yield _result_or_cancel(fs.pop())
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 319, in _result_or_cancel
+    return fut.result(timeout)
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/_snapshot_download.py", line 270, in _inner_hf_hub_download
+    return hf_hub_download(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 860, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 967, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1485, in _raise_on_head_call_error
+    raise LocalEntryNotFoundError(
+huggingface_hub.errors.LocalEntryNotFoundError: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+2025-01-23 23:42:34,052 - ERROR - Post generation error: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+2025-01-23 23:42:34,052 - ERROR - Error during simulation: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+2025-01-23 23:42:34,052 - INFO - Simulation ended for Arjun Patel
+2025-01-23 23:42:36,516 - INFO - Cleaned up TextGenerator resources
+2025-01-23 23:42:36,905 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 23:42:36,937 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 23:42:36,938 - INFO - Cleaned up VideoGenerator resources
+2025-01-23 23:45:33,404 - INFO - Configuration loaded from config/config.yaml
+2025-01-23 23:45:33,404 - INFO - Using default character data
+2025-01-23 23:45:33,404 - INFO - Initialized CharacterGenerator
+2025-01-23 23:45:33,404 - INFO - Initializing generation models...
+2025-01-23 23:45:36,597 - INFO - Initialized TextGenerator with device: cpu
+2025-01-23 23:45:36,598 - INFO - Text generator initialized with model: facebook/opt-350m
+2025-01-23 23:45:36,598 - INFO - Initialized ImageGenerator with device: cpu
+2025-01-23 23:45:36,598 - INFO - Image generator initialized
+2025-01-23 23:45:36,598 - INFO - Initialized AudioGenerator with device: cpu
+2025-01-23 23:45:36,598 - INFO - Audio generator initialized
+2025-01-23 23:45:36,598 - INFO - Initialized VideoGenerator with device: cpu
+2025-01-23 23:45:36,599 - INFO - Video generator initialized
+2025-01-23 23:45:36,599 - INFO - AI Character Simulation initialized successfully
+2025-01-23 23:45:36,599 - INFO - Generating character for region: India
+2025-01-23 23:45:36,599 - INFO - Successfully generated character: Zara Menon
+2025-01-23 23:45:36,599 - INFO - Created Indian character: Zara Menon
+2025-01-23 23:45:36,600 - INFO - Generating character for region: South Korea
+2025-01-23 23:45:36,600 - INFO - Successfully generated character: Tae-hyung Kang
+2025-01-23 23:45:36,600 - INFO - Created Korean character: Tae-hyung Kang
+2025-01-23 23:45:36,601 - INFO - Starting simulation for Zara Menon for 0.1 hours
+2025-01-23 23:45:56,622 - INFO - Generating text for mood: positive, topic: cricket tips
+2025-01-23 23:46:02,973 - INFO - Successfully generated text
+2025-01-23 23:46:02,973 - INFO - Generating image for style: professional, culture: India
+2025-01-23 23:46:02,973 - INFO - Loading Stable Diffusion model
+2025-01-23 23:49:34,707 - INFO - Successfully generated image: generated_images/india_professional_image.png
+2025-01-23 23:49:34,716 - INFO - Generating audio for style: professional
+2025-01-23 23:49:34,717 - INFO - Loading SpeechT5Processor
+2025-01-23 23:49:36,545 - INFO - Loading SpeechT5ForTextToSpeech
+2025-01-23 23:49:37,926 - INFO - Loading speaker embeddings
+2025-01-23 23:50:06,456 - INFO - Successfully generated audio: generated_audio/professional_audio.wav
+2025-01-23 23:50:06,456 - INFO - Generating video with style: professional
+2025-01-23 23:50:06,456 - INFO - Loading VideoGenProcessor
+2025-01-23 23:50:40,535 - ERROR - Error generating video: Pipeline <class 'diffusers.pipelines.cogvideo.pipeline_cogvideox_image2video.CogVideoXImageToVideoPipeline'> expected {'transformer', 'tokenizer', 'text_encoder', 'scheduler', 'vae'}, but only {'tokenizer', 'text_encoder', 'vae', 'scheduler'} were passed.
+Traceback (most recent call last):
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/video_generation.py", line 62, in generate_with_style
+    inputs = self.processor(
+  File "/home/ankit/Desktop/DYnamicAI/src/utils/video_generation.py", line 32, in processor
+    self._processor = CogVideoXImageToVideoPipeline.from_pretrained("damo-vilab/text-to-video-ms-1.7b")
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ankit/Desktop/DYnamicAI/venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_utils.py", line 971, in from_pretrained
+    raise ValueError(
+ValueError: Pipeline <class 'diffusers.pipelines.cogvideo.pipeline_cogvideox_image2video.CogVideoXImageToVideoPipeline'> expected {'transformer', 'tokenizer', 'text_encoder', 'scheduler', 'vae'}, but only {'tokenizer', 'text_encoder', 'vae', 'scheduler'} were passed.
+2025-01-23 23:50:40,537 - ERROR - Post generation error: Pipeline <class 'diffusers.pipelines.cogvideo.pipeline_cogvideox_image2video.CogVideoXImageToVideoPipeline'> expected {'transformer', 'tokenizer', 'text_encoder', 'scheduler', 'vae'}, but only {'tokenizer', 'text_encoder', 'vae', 'scheduler'} were passed.
+2025-01-23 23:50:40,538 - ERROR - Error during simulation: Pipeline <class 'diffusers.pipelines.cogvideo.pipeline_cogvideox_image2video.CogVideoXImageToVideoPipeline'> expected {'transformer', 'tokenizer', 'text_encoder', 'scheduler', 'vae'}, but only {'tokenizer', 'text_encoder', 'vae', 'scheduler'} were passed.
+2025-01-23 23:50:40,538 - INFO - Simulation ended for Zara Menon
+2025-01-23 23:50:40,663 - INFO - Cleaned up TextGenerator resources
+2025-01-23 23:50:40,975 - INFO - Cleaned up ImageGenerator resources
+2025-01-23 23:50:41,000 - INFO - Cleaned up AudioGenerator resources
+2025-01-23 23:50:41,001 - INFO - Cleaned up VideoGenerator resources

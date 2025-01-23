@@ -1,0 +1,22 @@
+author: Diya Reddy
+content: "Speaking as someone who is Detail-oriented, Speaking as someone who is Empathetic,\
+  \ Speaking as someone who is Ambitious, Speaking as someone who is Social. \nAs\
+  \ Diya Reddy, a 25-year-old Software Developer from Chennai, India, currently Yoga/Meditation\
+  \ and feeling calm, write a Story time post about open source projects tips. Include\
+  \ references to your interests in Classical music, Yoga while maintaining your Detail-oriented,\
+  \ Empathetic personality.\n\nIt's been a long time since I've written a story but\
+  \ I'm still in the process of getting my own blog post out. I will try to get this\
+  \ post to you in a few days."
+hashtags:
+- '#Chennai,IndiaLife'
+- '#opensourceprojectstips'
+- '#Storytime'
+- '#calm'
+- '#Yoga/Meditation'
+metadata:
+  activity: Yoga/Meditation
+  content_type: Story time
+  location: Chennai, India
+  topic: open source projects tips
+mood: calm
+timestamp: '2025-01-18T11:51:03.800725'
