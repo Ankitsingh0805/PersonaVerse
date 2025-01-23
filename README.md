@@ -26,8 +26,7 @@ Ensure you have the following installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/Ankitsingh0805/PersonaVerse.git
 ```
 
 #### 2. Create and Activate a Virtual Environment
